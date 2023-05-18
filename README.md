@@ -8,6 +8,7 @@ Our game, Survive in the End, is an arcade style pseudo 3D game. The game is bas
 
 ## Demo Video
 Tutorial/Demo : https://youtu.be/aygcDsqt94s
+<br>
 How to run JAR file: https://youtu.be/jWbqj0YPi3I
 
 
@@ -42,14 +43,12 @@ After the maven commands are run, the following jar files will be created in the
 
 ### Run
 Method 1: Run the Java class file "Main.class" located in the directory: ~/Code/src/main/java/.
-
-<br>
 <br>
 Method 2: Run the following command to start the game in the directory ~/Code/target
 ```
 $ java -cp Survive_in_the_end-1.0-jar-with-dependencies.jar Main
 ```
-Tutorial Video: https://youtu.be/g4I2FUXPZus 
+
 
 ## Testing
 Set up IDE to run all files in the directory: ~/Code/src/test/java/.
